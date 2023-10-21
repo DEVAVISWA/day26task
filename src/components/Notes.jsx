@@ -7,7 +7,7 @@ function Notes({notes}) {
         <ul>
             {
                 notes.map(note=>
-                        <li key={note.id}> <Link to={`/notes/${note.id}`}> {note.content} </Link> </li>
+                        <li key={note.id}>{note.content}</li>
                     )
             }
         </ul>

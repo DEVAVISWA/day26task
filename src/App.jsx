@@ -3,7 +3,7 @@ import { Link, Route, BrowserRouter as Router, Routes } from 'react-router-dom'
 import Home from './components/Home'
 import Notes from './components/Notes'
 import Users from './components/Users'
-import NoteList from './components/NoteList'
+
 
 function App({notes}) {
   const padd= {
@@ -19,9 +19,7 @@ function App({notes}) {
       <Routes>
         <Route path='/' element={<Home />}>  </Route>
         <Route path='/notes' element={<Notes notes={notes} />}>  </Route>
-        <Route path='/users' element={<Users />}>  </Route>
-        
-        <Route path='/notes/:noteid' element={<NoteList notes={notes} />} />
+        <Route path='/users' element={<Users />}>  </Route>        
       </Routes>
     </Router>
   )

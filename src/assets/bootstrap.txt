@@ -1,0 +1,132 @@
+<section class="elementor-section elementor-top-section elementor-element elementor-element-8749e4e page-inner-menu elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8749e4e" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3629ca3" data-id="3629ca3" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-d4ce6ec elementor-nav-menu__align-center elementor-nav-menu--dropdown-mobile elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="d4ce6ec" data-element_type="widget" data-settings="{&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;\&quot;><\/i>&quot;,&quot;library&quot;:&quot;&quot;},&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+<div class="elementor-widget-container">
+<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-slide">
+<ul id="menu-1-d4ce6ec" class="elementor-nav-menu" data-smartmenus-id="16979125071548757"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9511"><a href="https://www.guvi.in/blog/" class="elementor-item menu-link">All</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3487"><a href="https://www.guvi.in/blog/category/full-stack-development/" class="elementor-item menu-link">Full Stack Development</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3413"><a href="https://www.guvi.in/blog/category/data-science/" class="elementor-item menu-link">Data Science</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9555"><a href="https://www.guvi.in/blog/category/cyber-security/" class="elementor-item menu-link">Cyber Security</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3495"><a href="https://www.guvi.in/blog/category/career/" class="elementor-item menu-link">Career</a></li>
+</ul> </nav>
+<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i> <span class="elementor-screen-only">Menu</span>
+</div>
+<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+<ul id="menu-2-d4ce6ec" class="elementor-nav-menu" data-smartmenus-id="1697912507154228"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9511"><a href="https://www.guvi.in/blog/" class="elementor-item menu-link" tabindex="-1">All</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3487"><a href="https://www.guvi.in/blog/category/full-stack-development/" class="elementor-item menu-link" tabindex="-1">Full Stack Development</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3413"><a href="https://www.guvi.in/blog/category/data-science/" class="elementor-item menu-link" tabindex="-1">Data Science</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9555"><a href="https://www.guvi.in/blog/category/cyber-security/" class="elementor-item menu-link" tabindex="-1">Cyber Security</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3495"><a href="https://www.guvi.in/blog/category/career/" class="elementor-item menu-link" tabindex="-1">Career</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3629ca3" data-id="3629ca3" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-d4ce6ec elementor-nav-menu__align-center elementor-nav-menu--dropdown-mobile elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="d4ce6ec" data-element_type="widget" data-settings="{&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;\&quot;><\/i>&quot;,&quot;library&quot;:&quot;&quot;},&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+<div class="elementor-widget-container">
+<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-slide">
+<ul id="menu-1-d4ce6ec" class="elementor-nav-menu" data-smartmenus-id="16979125071548757"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9511"><a href="https://www.guvi.in/blog/" class="elementor-item menu-link">All</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3487"><a href="https://www.guvi.in/blog/category/full-stack-development/" class="elementor-item menu-link">Full Stack Development</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3413"><a href="https://www.guvi.in/blog/category/data-science/" class="elementor-item menu-link">Data Science</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9555"><a href="https://www.guvi.in/blog/category/cyber-security/" class="elementor-item menu-link">Cyber Security</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3495"><a href="https://www.guvi.in/blog/category/career/" class="elementor-item menu-link">Career</a></li>
+</ul> </nav>
+<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i> <span class="elementor-screen-only">Menu</span>
+</div>
+<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+<ul id="menu-2-d4ce6ec" class="elementor-nav-menu" data-smartmenus-id="1697912507154228"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9511"><a href="https://www.guvi.in/blog/" class="elementor-item menu-link" tabindex="-1">All</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3487"><a href="https://www.guvi.in/blog/category/full-stack-development/" class="elementor-item menu-link" tabindex="-1">Full Stack Development</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3413"><a href="https://www.guvi.in/blog/category/data-science/" class="elementor-item menu-link" tabindex="-1">Data Science</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9555"><a href="https://www.guvi.in/blog/category/cyber-security/" class="elementor-item menu-link" tabindex="-1">Cyber Security</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3495"><a href="https://www.guvi.in/blog/category/career/" class="elementor-item menu-link" tabindex="-1">Career</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3629ca3" data-id="3629ca3" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-d4ce6ec elementor-nav-menu__align-center elementor-nav-menu--dropdown-mobile elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="d4ce6ec" data-element_type="widget" data-settings="{&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;\&quot;><\/i>&quot;,&quot;library&quot;:&quot;&quot;},&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+<div class="elementor-widget-container">
+<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-slide">
+<ul id="menu-1-d4ce6ec" class="elementor-nav-menu" data-smartmenus-id="16979125071548757"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9511"><a href="https://www.guvi.in/blog/" class="elementor-item menu-link">All</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3487"><a href="https://www.guvi.in/blog/category/full-stack-development/" class="elementor-item menu-link">Full Stack Development</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3413"><a href="https://www.guvi.in/blog/category/data-science/" class="elementor-item menu-link">Data Science</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9555"><a href="https://www.guvi.in/blog/category/cyber-security/" class="elementor-item menu-link">Cyber Security</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3495"><a href="https://www.guvi.in/blog/category/career/" class="elementor-item menu-link">Career</a></li>
+</ul> </nav>
+<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i> <span class="elementor-screen-only">Menu</span>
+</div>
+<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+<ul id="menu-2-d4ce6ec" class="elementor-nav-menu" data-smartmenus-id="1697912507154228"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9511"><a href="https://www.guvi.in/blog/" class="elementor-item menu-link" tabindex="-1">All</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3487"><a href="https://www.guvi.in/blog/category/full-stack-development/" class="elementor-item menu-link" tabindex="-1">Full Stack Development</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3413"><a href="https://www.guvi.in/blog/category/data-science/" class="elementor-item menu-link" tabindex="-1">Data Science</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9555"><a href="https://www.guvi.in/blog/category/cyber-security/" class="elementor-item menu-link" tabindex="-1">Cyber Security</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3495"><a href="https://www.guvi.in/blog/category/career/" class="elementor-item menu-link" tabindex="-1">Career</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-d4ce6ec elementor-nav-menu__align-center elementor-nav-menu--dropdown-mobile elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="d4ce6ec" data-element_type="widget" data-settings="{&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;\&quot;><\/i>&quot;,&quot;library&quot;:&quot;&quot;},&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+<div class="elementor-widget-container">
+<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-slide">
+<ul id="menu-1-d4ce6ec" class="elementor-nav-menu" data-smartmenus-id="16979125071548757"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9511"><a href="https://www.guvi.in/blog/" class="elementor-item menu-link">All</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3487"><a href="https://www.guvi.in/blog/category/full-stack-development/" class="elementor-item menu-link">Full Stack Development</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3413"><a href="https://www.guvi.in/blog/category/data-science/" class="elementor-item menu-link">Data Science</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9555"><a href="https://www.guvi.in/blog/category/cyber-security/" class="elementor-item menu-link">Cyber Security</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3495"><a href="https://www.guvi.in/blog/category/career/" class="elementor-item menu-link">Career</a></li>
+</ul> </nav>
+<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i> <span class="elementor-screen-only">Menu</span>
+</div>
+<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+<ul id="menu-2-d4ce6ec" class="elementor-nav-menu" data-smartmenus-id="1697912507154228"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9511"><a href="https://www.guvi.in/blog/" class="elementor-item menu-link" tabindex="-1">All</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3487"><a href="https://www.guvi.in/blog/category/full-stack-development/" class="elementor-item menu-link" tabindex="-1">Full Stack Development</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3413"><a href="https://www.guvi.in/blog/category/data-science/" class="elementor-item menu-link" tabindex="-1">Data Science</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9555"><a href="https://www.guvi.in/blog/category/cyber-security/" class="elementor-item menu-link" tabindex="-1">Cyber Security</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3495"><a href="https://www.guvi.in/blog/category/career/" class="elementor-item menu-link" tabindex="-1">Career</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+
+
+
+<div class="elementor-widget-container">
+<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-slide">
+<ul id="menu-1-d4ce6ec" class="elementor-nav-menu" data-smartmenus-id="16979125071548757"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9511"><a href="https://www.guvi.in/blog/" class="elementor-item menu-link">All</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3487"><a href="https://www.guvi.in/blog/category/full-stack-development/" class="elementor-item menu-link">Full Stack Development</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3413"><a href="https://www.guvi.in/blog/category/data-science/" class="elementor-item menu-link">Data Science</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9555"><a href="https://www.guvi.in/blog/category/cyber-security/" class="elementor-item menu-link">Cyber Security</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3495"><a href="https://www.guvi.in/blog/category/career/" class="elementor-item menu-link">Career</a></li>
+</ul> </nav>
+<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i> <span class="elementor-screen-only">Menu</span>
+</div>
+<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+<ul id="menu-2-d4ce6ec" class="elementor-nav-menu" data-smartmenus-id="1697912507154228"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9511"><a href="https://www.guvi.in/blog/" class="elementor-item menu-link" tabindex="-1">All</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3487"><a href="https://www.guvi.in/blog/category/full-stack-development/" class="elementor-item menu-link" tabindex="-1">Full Stack Development</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3413"><a href="https://www.guvi.in/blog/category/data-science/" class="elementor-item menu-link" tabindex="-1">Data Science</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9555"><a href="https://www.guvi.in/blog/category/cyber-security/" class="elementor-item menu-link" tabindex="-1">Cyber Security</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3495"><a href="https://www.guvi.in/blog/category/career/" class="elementor-item menu-link" tabindex="-1">Career</a></li>
+</ul> </nav>
+</div>
